@@ -1,0 +1,17 @@
+com/jpinon/challenge/recruiting_javier_pinon/application/adapter/AnagramSolverImpl.class
+com/jpinon/challenge/recruiting_javier_pinon/application/word_management/WordShuffler.class
+com/jpinon/challenge/recruiting_javier_pinon/application/word_management/WordSplitter.class
+com/jpinon/challenge/recruiting_javier_pinon/application/port/AnagramSolver.class
+com/jpinon/challenge/recruiting_javier_pinon/application/word_management/impl/DefaultWordSplitter.class
+com/jpinon/challenge/recruiting_javier_pinon/application/word_management/WordReducer.class
+com/jpinon/challenge/recruiting_javier_pinon/application/word_management/utils/WordUtils.class
+com/jpinon/challenge/recruiting_javier_pinon/application/port/DictionaryRepository.class
+com/jpinon/challenge/recruiting_javier_pinon/infrastructure/repository/file/FileDictionaryRepository.class
+com/jpinon/challenge/recruiting_javier_pinon/infrastructure/runner/cli/CliManager.class
+com/jpinon/challenge/recruiting_javier_pinon/application/word_management/impl/DefaultWordLengthCombinator.class
+com/jpinon/challenge/recruiting_javier_pinon/application/word_management/impl/DefaultWordShuffler.class
+com/jpinon/challenge/recruiting_javier_pinon/application/word_management/WordLengthCombinator.class
+com/jpinon/challenge/recruiting_javier_pinon/infrastructure/repository/file/FilesCouldNotBeLoadedException.class
+com/jpinon/challenge/recruiting_javier_pinon/domain/AnagramDictionary.class
+com/jpinon/challenge/recruiting_javier_pinon/infrastructure/runner/Main.class
+com/jpinon/challenge/recruiting_javier_pinon/application/word_management/impl/DefaultWordReducer.class

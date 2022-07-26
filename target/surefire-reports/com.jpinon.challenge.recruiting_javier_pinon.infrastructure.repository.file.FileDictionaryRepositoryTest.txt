@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.jpinon.challenge.recruiting_javier_pinon.infrastructure.repository.file.FileDictionaryRepositoryTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.043 s - in com.jpinon.challenge.recruiting_javier_pinon.infrastructure.repository.file.FileDictionaryRepositoryTest
