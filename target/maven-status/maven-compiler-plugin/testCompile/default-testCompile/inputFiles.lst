@@ -1,8 +1,0 @@
-/home/jpinon/test-repositories/recruiting-javier-pinon/src/test/java/com/jpinon/challenge/recruiting_javier_pinon/application/word_management/impl/DefaultWordLengthCombinatorTest.java
-/home/jpinon/test-repositories/recruiting-javier-pinon/src/test/java/com/jpinon/challenge/recruiting_javier_pinon/application/adapter/AnagramSolverImplTest.java
-/home/jpinon/test-repositories/recruiting-javier-pinon/src/test/java/com/jpinon/challenge/recruiting_javier_pinon/application/word_management/impl/DefaultWordSplitterTest.java
-/home/jpinon/test-repositories/recruiting-javier-pinon/src/test/java/com/jpinon/challenge/recruiting_javier_pinon/application/word_management/impl/DefaultWordReducerTest.java
-/home/jpinon/test-repositories/recruiting-javier-pinon/src/test/java/com/jpinon/challenge/recruiting_javier_pinon/application/word_management/utils/WordUtilsTest.java
-/home/jpinon/test-repositories/recruiting-javier-pinon/src/test/java/com/jpinon/challenge/recruiting_javier_pinon/domain/AnagramDictionaryTest.java
-/home/jpinon/test-repositories/recruiting-javier-pinon/src/test/java/com/jpinon/challenge/recruiting_javier_pinon/application/word_management/impl/DefaultWordShufflerTest.java
-/home/jpinon/test-repositories/recruiting-javier-pinon/src/test/java/com/jpinon/challenge/recruiting_javier_pinon/infrastructure/repository/file/FileDictionaryRepositoryTest.java

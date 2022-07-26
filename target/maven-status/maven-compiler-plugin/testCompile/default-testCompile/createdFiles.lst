@@ -1,8 +1,0 @@
-com/jpinon/challenge/recruiting_javier_pinon/application/word_management/impl/DefaultWordLengthCombinatorTest.class
-com/jpinon/challenge/recruiting_javier_pinon/application/word_management/impl/DefaultWordShufflerTest.class
-com/jpinon/challenge/recruiting_javier_pinon/application/adapter/AnagramSolverImplTest.class
-com/jpinon/challenge/recruiting_javier_pinon/domain/AnagramDictionaryTest.class
-com/jpinon/challenge/recruiting_javier_pinon/application/word_management/impl/DefaultWordSplitterTest.class
-com/jpinon/challenge/recruiting_javier_pinon/infrastructure/repository/file/FileDictionaryRepositoryTest.class
-com/jpinon/challenge/recruiting_javier_pinon/application/word_management/utils/WordUtilsTest.class
-com/jpinon/challenge/recruiting_javier_pinon/application/word_management/impl/DefaultWordReducerTest.class
